@@ -2,4 +2,4 @@ File 1 created
 Some changes in file 1 has been done
 Bug1 that is in file 1 has been updaed
 CHanges have been made by team mate to solve problem of three way merging with no conflict in File1
-
+Changes have been made in file 1 to show solve bug2 
