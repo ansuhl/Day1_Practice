@@ -1,3 +1,4 @@
 File To is been created here
 Change 1 done in FileTo
 Bug 1 that is in FirTo has been resolved
+Changes have been made by team mate in FileTo to check 3 way merging without Conflict
