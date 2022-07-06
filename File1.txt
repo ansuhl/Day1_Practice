@@ -10,3 +10,4 @@ Changes made in File1 to see the working of file1 with rebasing
 
 Making some changes for remote.Trying to create a conflict by editing in github
 Commiting changes form the github only
+Trying to do party with git
