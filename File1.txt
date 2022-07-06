@@ -8,3 +8,4 @@ Trying to get conflict bug3 in File1
 Rebasing and conflicting with cr1
 Changes made in File1 to see the working of file1 with rebasing
 
+Making some changes for remote
