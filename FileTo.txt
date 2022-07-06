@@ -6,3 +6,4 @@ Changes have been made in FileTo to fix bug2
 Creating conflict with bug 3
 Trying to get conflict bug3 in FileTo
 Rebasing and conflicting with cr1
+Changes made to see how rebasing works in FileTo

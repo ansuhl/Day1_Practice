@@ -6,3 +6,5 @@ Changes have been made in file 1 to show solve bug2
 Creating conflict with bug 3
 Trying to get conflict bug3 in File1
 Rebasing and conflicting with cr1
+Changes made in File1 to see the working of file1 with rebasing
+
