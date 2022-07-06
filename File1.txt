@@ -1,3 +1,5 @@
 File 1 created
 Some changes in file 1 has been done
 Bug1 that is in file 1 has been updaed
+
+Changes have been made in file 1 to show solve bug2 
