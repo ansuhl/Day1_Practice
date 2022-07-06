@@ -5,4 +5,4 @@ CHanges have been made by team mate to solve problem of three way merging with n
 Changes have been made in file 1 to show solve bug2 
 Creating conflict with bug 3
 Trying to get conflict bug3 in File1
-
+Rebasing and conflicting with cr1

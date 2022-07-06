@@ -5,3 +5,4 @@ Changes have been made by team mate in FileTo to check 3 way merging without Con
 Changes have been made in FileTo to fix bug2
 Creating conflict with bug 3
 Trying to get conflict bug3 in FileTo
+Rebasing and conflicting with cr1
